@@ -1,0 +1,72 @@
+C:\Users\nick\Documents\restservice\RestService\bin\RestService.dll
+C:\Users\nick\Documents\restservice\RestService\bin\RestService.pdb
+C:\Users\nick\Documents\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nick\Documents\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\nick\Documents\bckusb\restservice\RestService\bin\RestService.dll
+C:\Users\nick\Documents\bckusb\restservice\RestService\bin\RestService.pdb
+C:\Users\nick\Documents\bckusb\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\bckusb\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nick\Documents\bckusb\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\nickp\Documents\restservice\RestService\bin\RestService.dll
+C:\Users\nickp\Documents\restservice\RestService\bin\RestService.pdb
+C:\Users\nickp\Documents\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\nickp\Documents\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nickp\Documents\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\nick\Documents\web services\restservice\RestService\bin\RestService.dll
+C:\Users\nick\Documents\web services\restservice\RestService\bin\RestService.pdb
+C:\Users\nick\Documents\web services\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\web services\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nick\Documents\web services\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\nickp\Documents\web services\restservice\RestService\bin\RestService.dll
+C:\Users\nickp\Documents\web services\restservice\RestService\bin\RestService.pdb
+C:\Users\nickp\Documents\web services\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\nickp\Documents\web services\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nickp\Documents\web services\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\bin\RestService.dll.config
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\bin\RestService.dll
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\bin\RestService.pdb
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\joshuaj\Documents\Visual Studio 2015\Projects\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\Nick\Documents\VS express\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\VS express\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\Nick\Documents\VS express\restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\Nick\Documents\VS express\restservice\RestService\bin\RestService.dll.config
+C:\Users\Nick\Documents\VS express\restservice\RestService\bin\RestService.dll
+C:\Users\Nick\Documents\VS express\restservice\RestService\bin\RestService.pdb
+H:\RestService\bin\RestService.dll.config
+H:\RestService\bin\RestService.dll
+H:\RestService\bin\RestService.pdb
+H:\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+H:\RestService\obj\Debug\RestService.dll
+H:\RestService\obj\Debug\RestService.pdb
+C:\Users\Nick\Documents\devel restservice\RestService\bin\RestService.dll.config
+C:\Users\Nick\Documents\devel restservice\RestService\bin\RestService.dll
+C:\Users\Nick\Documents\devel restservice\RestService\bin\RestService.pdb
+C:\Users\Nick\Documents\devel restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\devel restservice\RestService\obj\Debug\RestService.dll
+C:\Users\Nick\Documents\devel restservice\RestService\obj\Debug\RestService.pdb
+E:\devel restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+E:\devel restservice\RestService\obj\Debug\RestService.dll
+E:\devel restservice\RestService\bin\RestService.dll.config
+E:\devel restservice\RestService\bin\RestService.dll
+E:\devel restservice\RestService\bin\RestService.pdb
+E:\devel restservice\RestService\obj\Debug\RestService.pdb
+H:\devel restservice\RestService\bin\RestService.dll.config
+H:\devel restservice\RestService\bin\RestService.dll
+H:\devel restservice\RestService\bin\RestService.pdb
+H:\devel restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+H:\devel restservice\RestService\obj\Debug\RestService.dll
+H:\devel restservice\RestService\obj\Debug\RestService.pdb
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\bin\RestService.dll.config
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\bin\RestService.dll
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\bin\RestService.pdb
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\obj\Debug\RestService.dll
+C:\Users\nickp\OneDrive - Sydney Fish Market Pty Ltd\Documents\Restservice devel mysql migration march 2022\restservice\RestService\obj\Debug\RestService.pdb
+C:\devel rest removal dock\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\devel rest removal dock\RestService\RestService\obj\Debug\RestService.dll
+C:\devel rest removal dock\RestService\RestService\obj\Debug\RestService.pdb
+C:\devel rest removal dock\RestService\RestService\bin\RestService.dll.config
+C:\devel rest removal dock\RestService\RestService\bin\RestService.dll
+C:\devel rest removal dock\RestService\RestService\bin\RestService.pdb
